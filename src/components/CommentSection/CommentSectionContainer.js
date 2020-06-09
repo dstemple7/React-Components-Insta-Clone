@@ -17,7 +17,7 @@ const CommentSection = props => {
         )  
       })
       }
-      <CommentInput comment={comment} />
+      <CommentInput/>
     </div>
   );
 };
